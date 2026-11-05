@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Miqat" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ground</item>
+        <item name="android:statusBarColor">@color/ground</item>
+        <item name="android:navigationBarColor">@color/ground</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:isLightTheme">true</item>
+    </style>
+    <color name="ground">#EBEFEB</color>
+    <color name="accent">#0B6B5D</color>
+    <color name="icon_bg">#0B6B5D</color>
+</resources>
